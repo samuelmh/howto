@@ -11,6 +11,7 @@ The place where I store the guides I write based on my own experience.
 
 
 ## Historical Log
+* 2021-AUG-21 [How to use git with multiple authors](git/multi_author/README.md) 
 * 2021-AUG-19 [Interesting apps for a smartphone](smartphone/apps/README.md) 
 * 2021-AUG-19 [Configuring & maintaining Lineage OS](smartphone/maintenance/README.md) 
 * 2021-AUG-18 [Installing Lineage OS on a Samsung Galaxy A5 (2016)](smartphone/custom_os/README.md) 
