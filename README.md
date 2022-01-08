@@ -11,6 +11,9 @@ The place where I store the guides I write based on my own experience.
 
 
 ## Historical Log
+
+* 2022-DEC-08 [HTTPS in Nginx with Let's Encrypt](systems/https-lets_encrypt/README.md)
+* 2021-SEP-24 [How to migrate a repository](git/migration/README.md)
 * 2021-AUG-23 [Volvo S60: Borrar el mensaje de "tiempo de servicio regular"](car/reiniciar_tiempo_revision/README.md)
 * 2021-AUG-21 [How to use git with multiple SSH keys](git/multi_ssh_keys/README.md) 
 * 2021-AUG-21 [How to use git with multiple authors](git/multi_author/README.md) 
