@@ -11,6 +11,7 @@ The place where I store the guides I write based on my own experience.
 
 
 ## Historical Log
+* 2024-JUL-20 [Farinata di ceci](cooking/farinata_di_ceci/README.md)
 * 2023-APR-02 [Volvo S60: Sustitución de los antinieblas - Changing the fog lamps](car/antinieblas/README.md)
 * 2022-JAN-08 [HTTPS in Nginx with Let's Encrypt](systems/https-lets_encrypt/README.md)
 * 2021-SEP-24 [How to migrate a repository](git/migration/README.md)
