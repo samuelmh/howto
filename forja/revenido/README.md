@@ -1,4 +1,4 @@
-# Cómo sacar colores en el revenido del acero
+# Colores en el revenido del acero
 
 ```
 AUTHOR: Samuel M.H.
