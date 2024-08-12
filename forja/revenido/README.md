@@ -17,6 +17,7 @@ Las siguientes cartas muestran una estimación de los parámetros temperatura y 
 
 ![](img/carta_01.jpg)
 ![](img/carta_02.jpg)
+![](img/carta_03.jpg)
 
 Tonos que se logran con diferentes temperaturas.
 ![](img/colores_revenido.jpg)
