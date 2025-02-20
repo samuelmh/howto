@@ -11,6 +11,7 @@ The place where I store the guides I write based on my own experience.
 
 
 ## Historical Log
+* 2025-FEB [Volvo S60: Parada de motor por cambio de batería - Motor stall due to battery change](parada_motor_bateria/README.md)
 * 2024-JUL-27 [Pátina - Acabado envejecido](forja/patina/README.md)
 * 2024-JUL-27 [Colores en el revenido del acero](forja/revenido/README.md)
 * 2024-JUL-20 [Farinata di ceci](cooking/farinata_di_ceci/README.md)

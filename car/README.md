@@ -7,6 +7,7 @@ Most of these guides are in Spanish because there is a lack of repairing guides 
 
 
 ## Historical Log
+* 2025-FEB [Volvo S60: Parada de motor por cambio de batería - Motor stall due to battery change](parada_motor_bateria/README.md)
 * 2023-APR-02 [Volvo S60: Sustitución de los antinieblas - Changing the fog lamps](antinieblas/README.md)
 * 2021-AUG-23 [Volvo S60: Borrar el mensaje de "tiempo de servicio regular"](reiniciar_tiempo_revision/README.md)
 * 2021-AUG-08 [Volvo S60: Cambio del captador de aceite - Changing the oil trap](captador_aceite/README.md) 
